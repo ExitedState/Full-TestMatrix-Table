@@ -1,1 +1,1 @@
-# Full-TestMatrix-Table
+Welcome to the repository for the PRDC Workshop 2024 paper titled "Bridging Gaps between Scenario-Based Safety Analysis and Simulation-Based Testing for Autonomous Driving Systems." Due to page limitations in the conference proceedings, the full table accompanying our research is made available here for comprehensive review and further analysis.
